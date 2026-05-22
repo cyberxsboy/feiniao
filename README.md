@@ -1,5 +1,8 @@
 # 2026年最新稳定高速VPN推荐
-
+---
+layout: default
+custom_css: css/index.css
+---
 ![地球插图](./images/earth_purple.webp)
 
 **专为大陆用户打造**的高速、稳定的网络连接服务
