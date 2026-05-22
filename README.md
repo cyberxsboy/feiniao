@@ -1,14 +1,5 @@
 # 专为大陆用户打造的高速、稳定的网络连接服务
-<!--
-HTML Structure: <!DOCTYPE html>
-<html lang="zh-CN" data-theme="light">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>专为大陆用户打造的高速、稳定的网络连接服务</title>
-  <link rel="stylesheet" href="./css/index.css">
-</head>
--->
+
 <body data-theme="light">
 
 <main data-v-2f9e9307="" class="flex-1 pb-safe md:pb-0">
