@@ -77,7 +77,7 @@ jobs:
       - name: Generate sitemap.xml
         run: |
           # ←←←←←←←←←←←←←←← 请在这里修改成你实际绑定的域名 ←←←←←←←←←←←←←←←
-          CUSTOM_DOMAIN="https://你的自定义域名.com"
+          CUSTOM_DOMAIN="https://v2ray.mud.de5.net"
           
           cat > sitemap.xml << EOF
           <?xml version="1.0" encoding="UTF-8"?>
