@@ -1,279 +1,141 @@
 # 专为大陆用户打造的高速、稳定的网络连接服务
 
-<body data-theme="light">
+> **HTML 结构参考**：`<body data-theme="light">` > `<main class="flex-1 pb-safe md:pb-0">` > `<div class="mx-auto flex max-w-7xl ...">`
 
-<main data-v-2f9e9307="" class="flex-1 pb-safe md:pb-0">
-<div data-v-02745e47="" class="mx-auto flex max-w-7xl flex-col gap-8 px-4 py-10 md:px-6 lg:px-8">
+无论是工作还是娱乐，使用我们的互联网加速服务，确保您畅享全球内容。让您不再受地域限制，随时访问全球热门应用。
 
-<!-- ========== Section 1: 主标题区域 ========== -->
-<section class="card-surface bg-gradient-to-br from-primary/15 via-white/3 to-transparent p-8 md:p-10 hidden md:block">
+![earth illustration](./images/earth_purple.webp)
+> *样式：`class="relative hidden md:block"` + `img: "mx-auto w-56 lg:w-80 object-contain"`*
 
-<div class="grid items-center gap-10 md:[grid-template-columns:1.7fr_1fr]">
+## 服务特点
 
-<div class="space-y-5">
+> *样式：`<ul class="mt-4 space-y-3 text-sm">` + `<li class="flex items-start gap-2">`*
 
-# <h1 class="text-3xl font-semibold leading-tight md:text-3xl"><span class="text-primary">专为大陆用户打造</span></h1>的高速、稳定的网络连接服务
+- ✓ <i class="i-solar-check-circle-outline mt-0.5 text-primary"></i> **全面解锁全球网络**：包括不限于 YouTube、Google、Twitter、ChatGPT、Netflix 等被封禁的网站
+- ✓ <i class="i-solar-check-circle-outline mt-0.5 text-primary"></i> **多平台支持**：IOS、macOS、Android、Windows、软路由、Linux 全面支持
+- ✓ <i class="i-solar-check-circle-outline mt-0.5 text-primary"></i> **全球连接**：80多组服务器集群覆盖全球，您可以从世界上任何地方连接
+- ✓ <i class="i-solar-check-circle-outline mt-0.5 text-primary"></i> **极速连接**：优化全球网络路径，提供更稳定、快速的连接。
+- ✓ <i class="i-solar-check-circle-outline mt-0.5 text-primary"></i> **安全隐私保护**：全程加密，保护您的网络安全和隐私。
+- ✓ <i class="i-solar-check-circle-outline mt-0.5 text-primary"></i> **专业客服**：7×24小时专线客服在线答疑
 
-<p class="max-w-3xl text-base leading-7 text-white/70">无论是工作还是娱乐，使用我们的互联网加速服务，确保您畅享全球内容。让您不再受地域限制，随时访问全球热门应用。</p>
-
-## <ul class="mt-4 space-y-3 text-sm">服务特点</ul>
-
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline mt-0.5 text-primary"></i><span>✓ 全面解锁全球网络：包括不限于 YouTube、Google、Twitter、ChatGPT、Netflix 等被封禁的网站</span></li>
-
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline mt-0.5 text-primary"></i><span>✓ 多平台支持：IOS、macOS、Android、Windows、软路由、Linux 全面支持</span></li>
-
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline mt-0.5 text-primary"></i><span>✓ 全球连接：80多组服务器集群覆盖全球，您可以从世界上任何地方连接</span></li>
-
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline mt-0.5 text-primary"></i><span>✓ 极速连接：优化全球网络路径，提供更稳定、快速的连接。</span></li>
-
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline mt-0.5 text-primary"></i><span>✓ 安全隐私保护：全程加密，保护您的网络安全和隐私。</span></li>
-
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline mt-0.5 text-primary"></i><span>✓ 专业客服：7×24小时专线客服在线答疑</span></li>
-
-</div>
-
-<div class="relative hidden md:block">
-<img src="./images/earth_purple.webp" alt="earth illustration" class="mx-auto w-56 lg:w-80 object-contain">
-</div>
-
-</div>
-</section>
-<!-- ========== End Section 1 ========== -->
-
-<!-- ========== Section 2: 套餐方案区域 ========== -->
-<section class="card-surface p-6">
-
-<div class="flex flex-wrap items-center gap-2 text-sm">
+---
 
 ## 套餐方案
 
-**筛选选项：**
-<button class="btn-ghost btn-primary" type="button">[全部]</button>
-<button class="btn-ghost" type="button">[按周期]</button>
-<button class="btn-ghost" type="button">[按流量]</button>
+> *结构：`<section class="card-surface p-6">` > `<div class="grid gap-6 lg:grid-cols-2 xl:grid-cols-3">`*
 
-</div>
+**筛选选项：** `[全部]` `[按周期]` `[按流量]`
+> *按钮样式：`class="btn-ghost btn-primary"` / `class="btn-ghost"`*
 
-<div class="mt-6">
-<!---->
-<div class="grid gap-6 lg:grid-cols-2 xl:grid-cols-3">
+### 基础套餐 - 县令
 
-<!-- ====== 套餐卡片 1：基础套餐 - 县令 ====== -->
-<article class="card-surface group relative overflow-hidden flex h-full flex-col gap-4 p-6 transition-all duration-200 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/20">
-<!---->
-<div class="flex items-start justify-between">
-<div class="flex-1">
-### <h3 class="text-xl font-semibold">基础套餐 - 县令</h3>
-<div class="mt-2 flex items-baseline gap-2">
-<span class="text-3xl font-semibold">**价格：¥15.00**</span>
-<span class="text-sm text-white/60">/ 月付</span>
-</div>
-</div>
-<i class="i-solar-diamond-bold-duotone text-2xl text-primary"></i>
-</div>
+> *卡片结构：`<article class="card-surface group relative overflow-hidden flex h-full flex-col gap-4 p-6 transition-all duration-200 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/20">`*
 
-<div class="flex-1">
-<strong>套餐包含：</strong>
-<ul class="space-y-2 text-sm text-white/70">
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 每月 150G 流量，年付优惠</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 多地跨境高速专线，超低延迟与超高速率</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 解锁 Netflix，Disney+，Tiktok 等流媒体</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专属 GPT 集群，保证高可用性</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 可多设备同时使用</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专业客服支持</span></li>
-</ul>
-</div>
+**价格：** ~~¥15.00~~ / 月付
+> *价格样式：`<span class="text-3xl font-semibold">` + `<span class="text-sm text-white/60">`*
+>
+> *图标：`<i class="i-solar-diamond-bold-duotone text-2xl text-primary"></i>`*
 
-<div class="mt-auto">
-<button class="btn-primary w-full" type="button">
-[立即购买](https://www.112112789.xyz/?code=uq27o1Ko)
-</button>
-</div>
+**套餐包含：**
+> *列表样式：`<ul class="space-y-2 text-sm text-white/70">`*
 
-</article>
-<!-- ====== End 套餐卡片 1 ====== -->
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 每月 150G 流量，年付优惠
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 多地跨境高速专线，超低延迟与超高速率
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 解锁 Netflix，Disney+，Tiktok 等流媒体
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专属 GPT 集群，保证高可用性
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 可多设备同时使用
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专业客服支持
 
-<!-- ====== 套餐卡片 2：进阶套餐 - 知府 ====== -->
-<article class="card-surface group relative overflow-hidden flex h-full flex-col gap-4 p-6 transition-all duration-200 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/20">
-<!---->
-<div class="flex items-start justify-between">
-<div class="flex-1">
-### <h3 class="text-xl font-semibold">进阶套餐 - 知府</h3>
-<div class="mt-2 flex items-baseline gap-2">
-<span class="text-3xl font-semibold">**价格：¥25.00**</span>
-<span class="text-sm text-white/60">/ 月付</span>
-</div>
-</div>
-<i class="i-solar-diamond-bold-duotone text-2xl text-primary"></i>
-</div>
+[**立即购买**](https://www.112112789.xyz/?code=uq27o1Ko){: .btn-primary .w-full}
+> *按钮样式：`class="btn-primary w-full"`*
 
-<div class="flex-1">
-<strong>套餐包含：</strong>
-<ul class="space-y-2 text-sm text-white/70">
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 每月 260G 流量，年付优惠</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 多地跨境高速专线，超低延迟与超高速率</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 解锁 Netflix，Disney+，Tiktok 等流媒体</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专属 GPT 集群，保证高可用性</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 可多设备同时使用</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专业客服支持</span></li>
-</ul>
-</div>
+---
 
-<div class="mt-auto">
-<button class="btn-primary w-full" type="button">
-[立即购买](https://www.112112789.xyz/?code=uq27o1Ko)
-</button>
-</div>
+### 进阶套餐 - 知府
 
-</article>
-<!-- ====== End 套餐卡片 2 ====== -->
+> *卡片结构同上*
 
-<!-- ====== 套餐卡片 3：高阶套餐 - 巡抚 ====== -->
-<article class="card-surface group relative overflow-hidden flex h-full flex-col gap-4 p-6 transition-all duration-200 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/20">
-<!---->
-<div class="flex items-start justify-between">
-<div class="flex-1">
-### <h3 class="text-xl font-semibold">高阶套餐 - 巡抚</h3>
-<div class="mt-2 flex items-baseline gap-2">
-<span class="text-3xl font-semibold">**价格：¥35.00**</span>
-<span class="text-sm text-white/60">/ 月付</span>
-</div>
-</div>
-<i class="i-solar-diamond-bold-duotone text-2xl text-primary"></i>
-</div>
+**价格：** ~~¥25.00~~ / 月付
 
-<div class="flex-1">
-<strong>套餐包含：</strong>
-<ul class="space-y-2 text-sm text-white/70">
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 每月 370G 流量，年付优惠</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 多地跨境高速专线，超低延迟与超高速率</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 解锁 Netflix，Disney+，Tiktok 等流媒体</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专属 GPT 集群，保证高可用性</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 可多设备同时使用</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专业客服支持</span></li>
-</ul>
-</div>
+**套餐包含：**
 
-<div class="mt-auto">
-<button class="btn-primary w-full" type="button">
-[立即购买](https://www.112112789.xyz/?code=uq27o1Ko)
-</button>
-</div>
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 每月 260G 流量，年付优惠
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 多地跨境高速专线，超低延迟与超高速率
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 解锁 Netflix，Disney+，Tiktok 等流媒体
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专属 GPT 集群，保证高可用性
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 可多设备同时使用
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专业客服支持
 
-</article>
-<!-- ====== End 套餐卡片 3 ====== -->
+[**立即购买**](https://www.112112789.xyz/?code=uq27o1Ko){: .btn-primary .w-full}
 
-<!-- ====== 套餐卡片 4：专业套餐 - 总督 ====== -->
-<article class="card-surface group relative overflow-hidden flex h-full flex-col gap-4 p-6 transition-all duration-200 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/20">
-<!---->
-<div class="flex items-start justify-between">
-<div class="flex-1">
-### <h3 class="text-xl font-semibold">专业套餐 - 总督</h3>
-<div class="mt-2 flex items-baseline gap-2">
-<span class="text-3xl font-semibold">**价格：¥45.00**</span>
-<span class="text-sm text-white/60">/ 月付</span>
-</div>
-</div>
-<i class="i-solar-diamond-bold-duotone text-2xl text-primary"></i>
-</div>
+---
 
-<div class="flex-1">
-<strong>套餐包含：</strong>
-<ul class="space-y-2 text-sm text-white/70">
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 每月 480G 流量，年付优惠</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 多地跨境高速专线，超低延迟与超高速率</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 解锁 Netflix，Disney+，Tiktok 等流媒体</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专属 GPT 集群，保证高可用性</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 可多设备同时使用</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专业客服支持</span></li>
-</ul>
-</div>
+### 高阶套餐 - 巡抚
 
-<div class="mt-auto">
-<button class="btn-primary w-full" type="button">
-[立即购买](https://www.112112789.xyz/?code=uq27o1Ko)
-</button>
-</div>
+**价格：** ~~¥35.00~~ / 月付
 
-</article>
-<!-- ====== End 套餐卡片 4 ====== -->
+**套餐包含：**
 
-<!-- ====== 套餐卡片 5：畅想流量包 - 300G ====== -->
-<article class="card-surface group relative overflow-hidden flex h-full flex-col gap-4 p-6 transition-all duration-200 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/20">
-<!---->
-<div class="flex items-start justify-between">
-<div class="flex-1">
-### <h3 class="text-xl font-semibold">畅想流量包 - 300G</h3>
-<div class="mt-2 flex items-baseline gap-2">
-<span class="text-3xl font-semibold">**价格：¥99.00**</span>
-<span class="text-sm text-white/60">/ 一次性</span>
-</div>
-</div>
-<i class="i-solar-diamond-bold-duotone text-2xl text-primary"></i>
-</div>
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 每月 370G 流量，年付优惠
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 多地跨境高速专线，超低延迟与超高速率
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 解锁 Netflix，Disney+，Tiktok 等流媒体
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专属 GPT 集群，保证高可用性
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 可多设备同时使用
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专业客服支持
 
-<div class="flex-1">
-<strong>套餐包含：</strong>
-<ul class="space-y-2 text-sm text-white/70">
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 300G 不限时流量</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 多地跨境高速专线，超低延迟与超高速率</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 解锁 Netflix，Disney+，Tiktok 等流媒体</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专属 GPT 集群，保证高可用性</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 可多设备同时使用</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专业客服支持</span></li>
-</ul>
-</div>
+[**立即购买**](https://www.112112789.xyz/?code=uq27o1Ko){: .btn-primary .w-full}
 
-<div class="mt-auto">
-<button class="btn-primary w-full" type="button">
-[立即购买](https://www.112112789.xyz/?code=uq27o1Ko)
-</button>
-</div>
+---
 
-</article>
-<!-- ====== End 套餐卡片 5 ====== -->
+### 专业套餐 - 总督
 
-<!-- ====== 套餐卡片 6：畅想流量包 - 800G ====== -->
-<article class="card-surface group relative overflow-hidden flex h-full flex-col gap-4 p-6 transition-all duration-200 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/20">
-<!---->
-<div class="flex items-start justify-between">
-<div class="flex-1">
-### <h3 class="text-xl font-semibold">畅想流量包 - 800G</h3>
-<div class="mt-2 flex items-baseline gap-2">
-<span class="text-3xl font-semibold">**价格：¥199.00**</span>
-<span class="text-sm text-white/60">/ 一次性</span>
-</div>
-</div>
-<i class="i-solar-diamond-bold-duotone text-2xl text-primary"></i>
-</div>
+**价格：** ~~¥45.00~~ / 月付
 
-<div class="flex-1">
-<strong>套餐包含：</strong>
-<ul class="space-y-2 text-sm text-white/70">
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 800G 不限时流量</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 多地跨境高速专线，超低延迟与超高速率</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 解锁 Netflix，Disney+，Tiktok 等流媒体</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专属 GPT 集群，保证高可用性</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 可多设备同时使用</span></li>
-<li class="flex items-start gap-2"><i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i><span>- 专业客服支持</span></li>
-</ul>
-</div>
+**套餐包含：**
 
-<div class="mt-auto">
-<button class="btn-primary w-full" type="button">
-[立即购买](https://www.112112789.xyz/?code=uq27o1Ko)
-</button>
-</div>
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 每月 480G 流量，年付优惠
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 多地跨境高速专线，超低延迟与超高速率
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 解锁 Netflix，Disney+，Tiktok 等流媒体
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专属 GPT 集群，保证高可用性
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 可多设备同时使用
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专业客服支持
 
-</article>
-<!-- ====== End 套餐卡片 6 ====== -->
+[**立即购买**](https://www.112112789.xyz/?code=uq27o1Ko){: .btn-primary .w-full}
 
-</div>
-</div>
-</section>
-<!-- ========== End Section 2 ========== -->
+---
 
-</div>
-</main>
+### 畅想流量包 - 300G
 
-</body>
+**价格：** ~~¥99.00~~ / 一次性
+
+**套餐包含：**
+
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 300G 不限时流量
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 多地跨境高速专线，超低延迟与超高速率
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 解锁 Netflix，Disney+，Tiktok 等流媒体
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专属 GPT 集群，保证高可用性
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 可多设备同时使用
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专业客服支持
+
+[**立即购买**](https://www.112112789.xyz/?code=uq27o1Ko){: .btn-primary .w-full}
+
+---
+
+### 畅想流量包 - 800G
+
+**价格：** ~~¥199.00~~ / 一次性
+
+**套餐包含：**
+
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 800G 不限时流量
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 多地跨境高速专线，超低延迟与超高速率
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 解锁 Netflix，Disney+，Tiktok 等流媒体
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专属 GPT 集群，保证高可用性
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 可多设备同时使用
+- <i class="i-solar-check-circle-outline text-primary mt-0.5 flex-shrink-0"></i> 专业客服支持
+
+[**立即购买**](https://www.112112789.xyz/?code=uq27o1Ko){: .btn-primary .w-full}
+
+---
+
+
