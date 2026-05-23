@@ -1586,7 +1586,9 @@ nav[data-v-be542727] {
   height:100%
 }
 .h1 {
-  height:.25rem
+  height:.25rem;
+  text-align: center;
+  font-size: xx-large;
 }
 .h3 {
   height:.75rem
@@ -3409,7 +3411,17 @@ html,
 }
 body {
   margin:0;
-  line-height:inherit
+  line-height:inherit;
+  --bg: #f7fafc;
+  --surface: #ffffff;
+  --surface-muted: #f5f7fb;
+  --border: rgba(15, 23, 42, .08);
+  --text: #0b1024;
+  --text-muted:rgba(11, 16, 36, .6);
+  --primary: #00C6FB;
+  --primary-dark: #00C6FB;
+  --primary-contrast: #0b1024;
+  --danger-contrast: #0b1024;
 }
 hr {
   height:0;
@@ -3620,6 +3632,7 @@ video {
   --danger-contrast: #0b1024
 }
 body {
+  max-width: 100%!important;
   margin:0;
   min-height:100vh;
   background:radial-gradient(circle at 50% 0%,#101935,#070b1a);
