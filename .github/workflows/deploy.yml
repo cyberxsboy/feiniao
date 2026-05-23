@@ -58,6 +58,11 @@ jobs:
                       max-width: 100%;
                       height: auto;
                   }
+                  .h1 {
+                  height:.25rem;
+                  text-align: center!important;
+                  font-size: xx-large!important;
+                  }
               </style>
           </head>
           <body>
