@@ -1548,7 +1548,7 @@ nav[data-v-be542727] {
   height:4rem
 }
 .h-2,
-.h2 {
+ h2 {
   height:.5rem
 }
 .h-20 {
@@ -1567,7 +1567,7 @@ nav[data-v-be542727] {
   height:1.25rem
 }
 .h-6,
-.h6 {
+ h6 {
   height:1.5rem
 }
 .h-7 {
@@ -1585,12 +1585,12 @@ nav[data-v-be542727] {
 .h-full {
   height:100%
 }
-.h1 {
+ h1 {
   height:.25rem;
   text-align: center!important;
   font-size: xx-large!important;
 }
-.h3 {
+ h3 {
   height:.75rem
 }
 .max-h-\[60vh\] {
