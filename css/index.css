@@ -14,6 +14,9 @@
   background:transparent;
   backdrop-filter:none
 }
+span {
+    color: #000;
+}
 @media(max-width:767px) {
   .mega-menu-overlay[data-v-ae6c41b9] {
     place-items:end center;
