@@ -1587,8 +1587,8 @@ nav[data-v-be542727] {
 }
 .h1 {
   height:.25rem;
-  text-align: center;
-  font-size: xx-large;
+  text-align: center!important;
+  font-size: xx-large!important;
 }
 .h3 {
   height:.75rem
