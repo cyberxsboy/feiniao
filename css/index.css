@@ -17,6 +17,16 @@
 span {
     color: #000;
 }
+.mt-auto a {
+    display: block;
+    text-align: center;
+    padding: 12px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
 @media(max-width:767px) {
   .mega-menu-overlay[data-v-ae6c41b9] {
     place-items:end center;
